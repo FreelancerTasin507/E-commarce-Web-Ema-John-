@@ -6,6 +6,8 @@
   font-size: 17px;
   line-height: 20px;
   letter-spacing: 0.005em;
+  position: sticky;
+  top: 0;
 }
 .cart-container h3 {
   text-align: center;
