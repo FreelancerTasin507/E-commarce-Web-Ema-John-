@@ -1,0 +1,12 @@
+.cart-container {
+  background-color: #404040;
+  text-align: left;
+  padding: 23px;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: 0.005em;
+}
+.cart-container h3 {
+  text-align: center;
+}
